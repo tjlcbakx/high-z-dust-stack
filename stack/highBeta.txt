@@ -1,0 +1,7 @@
+#fitsname,ra,dec,redshift,weighting
+REBELS24cont.fits,10:00:31.89,+01:57:50.20
+ID4590_cont2.fits,07:23:26.26,-73:26:57.04
+ID4590_cont1.fits,07:23:26.26,-73:26:57.04
+GHZ1_GLz11cont.fits,00:14:02.86,-30:22:18.69
+GNz11.fits,12:36:25.46,62:14:31.40
+GS-z11.fits,03:32:39.54,-27:46:28.67

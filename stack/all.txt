@@ -1,0 +1,15 @@
+#fitsname,ra,dec,redshift,weighting
+REBELS24cont.fits,10:00:31.89,+01:57:50.20
+GS_z9_3_cont.fits,03:32:34.99,-27:49:21.60
+ID4590_cont2.fits,07:23:26.26,-73:26:57.04
+ID4590_cont1.fits,07:23:26.26,-73:26:57.04
+JD1_cont_cii.fits,11:49:33.58,+22:24:45.70
+JD1_cont_new.fits,11:49:33.58,+22:24:45.70
+GS-z10-1_cont.image.fits,03:32:26.94,-27:46:28.72
+GHZ1_GLz11cont.fits,00:14:02.86,-30:22:18.69
+GHZ2_mfs_new.fits,00:13:59.76,-30:19:29.22
+GHZ2z12_b8_cont.fits,00:13:59.76,-30:19:29.22
+gs14_mfs-complete.fits,03:32:19.90,-27:51:20.27
+GSz14_targets_cont158.image.fits,03:32:19.90,-27:51:20.27
+GNz11.fits,12:36:25.46,62:14:31.40
+GS-z11.fits,03:32:39.54,-27:46:28.67

@@ -1,0 +1,5 @@
+#fitsname,ra,dec,redshift,weighting
+GS_z9_3_cont.fits,03:32:34.99,-27:49:21.60
+GHZ1_GLz11cont.fits,00:14:02.86,-30:22:18.69
+GHZ2_mfs_new.fits,00:13:59.76,-30:19:29.22
+GHZ2z12_b8_cont.fits,00:13:59.76,-30:19:29.22
