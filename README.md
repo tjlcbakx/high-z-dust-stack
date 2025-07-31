@@ -1,4 +1,4 @@
-![Probing Infrared eXcess to Investigate Early DUST](pixiedust_logo.pdf "Stacking")
+![Probing Infrared eXcess to Investigate Early DUST](../../pixiedust_logo.pdf "Stacking")
 # Stacking deep ALMA observations of robust sources above redshift 8
 
 ## Background
